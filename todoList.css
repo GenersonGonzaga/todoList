@@ -1,0 +1,10 @@
+
+.todo-item,
+.todo-input-wrapper {
+    border: 1px solid #ccc;
+    padding: 4px 8px;
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    border-radius: 5px;
+}
